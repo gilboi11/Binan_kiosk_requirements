@@ -1,0 +1,1 @@
+# Binan_kiosk_requirements
