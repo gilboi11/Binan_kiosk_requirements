@@ -1,0 +1,52 @@
+Modules					Resource: C#
+** - map				Database: MySql
+** - search				Technologies: Microsoft Visual Studio 2015, phpMyAdmin, Photoshop
+     	- information
+		-people
+		-office			
+   	- application
+   - job advertisments
+
+
+1. Home Screen
+	Search Button
+	General Buttons (map, officers, offices, applications, job advertisements)
+ 
+2. Search button
+	- search for people
+		- search bar --> suggestions appear (PEOPLE ONLY)
+			- Sir Mon
+				- information of sir mon (designation, contact information, office address, working hours)
+				- find sir mon's office
+
+	- search for offices
+		- search bar --> suggestions appear (OFFICE ONLY)
+			- ICT
+				- information of ICT (summary, officers list, office address, working hours)
+				- find sir ICT office
+	
+	- search for application --->(FOR ADMIN ACCESS)
+		- search bar --> suggestions appear (APPLICATIONS ONLY)
+			- business permit
+				- information of business permit (summary, requirements, steps, office to submit)
+				- picture of the form
+				- find office
+
+3. Job Advertisements 
+	- job category buttons --> IT (All IT Jobs Available)
+		- IT Job Advertisement --> Junior Programmer
+			- Display of Job Details (Soft Copy From the Corporation Employing)
+
+
+4. Map 
+	-  display current floor kiosk location --> search button
+		- Accounting
+			- go to search function
+			- display route
+			
+
+Agenda: 1. Meet with project manager
+	2. Request Sir for soft copy of city hall binan floor plans
+	3. Fix schedule 
+	4. List of offices
+	
