@@ -25,7 +25,7 @@ Modules					Resource: C#
 				- information of ICT (summary, officers list, office address, working hours)
 				- find sir ICT office
 	
-	- search for application --->(FOR ADMIN ACCESS)
+	- search for application --->(FOR ADMIN ACCESS ONLY)
 		- search bar --> suggestions appear (APPLICATIONS ONLY)
 			- business permit
 				- information of business permit (summary, requirements, steps, office to submit)
